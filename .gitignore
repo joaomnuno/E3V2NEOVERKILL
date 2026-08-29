@@ -6,4 +6,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.bak
 *.bkp
 *.csv
-backup_2024_03_17.zip
+*.zip
+ShakeTune_results
